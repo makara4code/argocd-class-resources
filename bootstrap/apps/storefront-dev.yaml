@@ -12,7 +12,7 @@ spec:
   # which is unrestricted. That is the accident this line prevents.
   project: default
   source:
-    repoURL: https://github.com/abohmeed/argocd-class-resources.git
+    repoURL: https://github.com/makara4code/argocd-class-resources.git
     targetRevision: baseline/before-rollouts
     path: apps/storefront/overlays/dev
   destination:
